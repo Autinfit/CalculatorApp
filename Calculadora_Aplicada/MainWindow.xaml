@@ -7,6 +7,12 @@
         mc:Ignorable="d"
         Title="Calculadora Científica" Height="450" Width="800">
     <Grid>
-        
+
+        <Label HorizontalAlignment="Center" FontSize="40">TUTORIAL CALCULADORA CIENTÍFICA</Label>
+
+        <TextBox VerticalContentAlignment="Center" FontSize="20" TextAlignment="Center" Name="variableA" Margin="224,127,508,266" Width="75" Height="45">00</TextBox>
+
+        <TextBox VerticalContentAlignment="Center" FontSize="20" TextAlignment="Center" Name="variableB" Margin="490,127,242,266" Width="75" Height="45">00</TextBox>
+
     </Grid>
 </Window>
