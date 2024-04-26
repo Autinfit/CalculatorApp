@@ -19,4 +19,5 @@ Objetivos de esta lección:
 6.- Añade 4 eventos a los botones.
 
 7.- Convertir cadenas a dobles y completar cálculos.
+
 8.- Redondear números decimales hacia abajo y mostrarlos en la etiqueta.
