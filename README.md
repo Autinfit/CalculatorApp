@@ -4,7 +4,7 @@
 - **_El propósito de este tutorial es comenzar a aprender cómo crear aplicaciones en formato WPF._**
 - **_Hemos creado varios programas diferentes en la plantilla de aplicación clásica de Windows Forms; sin embargo, es importante para nosotros aprender a usar WPF, ya que ahora se usa con más frecuencia en el desarrollo de aplicaciones y juegos._**
 
-Objetivos de la lección -
+Objetivos de la lección:
 
 Cree una calculadora completa en la aplicación WPF usando C#
 Utilice programación XAML y C# para crear la calculadora
