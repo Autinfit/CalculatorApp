@@ -13,4 +13,4 @@ Utilice etiquetas dinámicas y cambie los valores del código directamente.
 Añade 4 botones a la calculadora para sumar, restar, multiplicar y dividir.
 Añade 4 eventos a los botones.
 Convertir cadenas a dobles y completar cálculos.
-Redondear números decimales hacia abajo y mostrarlos en la etiqueta
+Redondear números decimales hacia abajo y mostrarlos en la etiqueta.
