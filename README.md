@@ -20,4 +20,4 @@
 
 7.- _Convertir cadenas a dobles y completar cálculos._
 
-8.- Redondear números decimales hacia abajo y mostrarlos en la etiqueta.
+8.- _Redondear números decimales hacia abajo y mostrarlos en la etiqueta._
