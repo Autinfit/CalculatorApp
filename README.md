@@ -17,5 +17,5 @@ Objetivos de esta lección:
 5.- Añade 4 botones a la calculadora para sumar, restar, multiplicar y dividir.
 
 6.- Añade 4 eventos a los botones.
-Convertir cadenas a dobles y completar cálculos.
+7.- Convertir cadenas a dobles y completar cálculos.
 Redondear números decimales hacia abajo y mostrarlos en la etiqueta.
