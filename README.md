@@ -9,6 +9,7 @@ Objetivos de esta lección:
 1.- Cree una calculadora completa en la aplicación WPF usando C#.
 
 2.- Utilice programación XAML y C# para crear la calculadora.
+
 3.- Utilice cuadros de texto y alineación de contenido para diseñar los textos.
 Utilice etiquetas dinámicas y cambie los valores del código directamente.
 Añade 4 botones a la calculadora para sumar, restar, multiplicar y dividir.
