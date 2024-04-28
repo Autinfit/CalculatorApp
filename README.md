@@ -12,7 +12,7 @@
 
 - **_Utilizar cuadros de texto y alineación de contenido para diseñar los textos._**
 
-4.- **_Utilizar etiquetas dinámicas y cambiar los valores del código directamente._**
+- **_Utilizar etiquetas dinámicas y cambiar los valores del código directamente._**
 
 5.- **_Añadir 4 botones a la calculadora para sumar, restar, multiplicar y dividir._**
 
