@@ -16,7 +16,7 @@
 
 - **_Añadir 4 botones a la calculadora para sumar, restar, multiplicar y dividir._**
 
-6.- **_Añadir 4 eventos a los botones._**
+- **_Añadir 4 eventos a los botones._**
 
 7.- **_Convertir cadenas a dobles y completar cálculos._**
 
