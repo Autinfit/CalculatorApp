@@ -18,6 +18,6 @@
 
 - **_Añadir 4 eventos a los botones._**
 
-7.- **_Convertir cadenas a dobles y completar cálculos._**
+- **_Convertir cadenas a dobles y completar cálculos._**
 
 8.- **_Redondear números decimales hacia abajo y mostrarlos mediante una etiqueta._**
