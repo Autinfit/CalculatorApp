@@ -14,7 +14,7 @@
 
 - **_Utilizar etiquetas dinámicas y cambiar los valores del código directamente._**
 
-5.- **_Añadir 4 botones a la calculadora para sumar, restar, multiplicar y dividir._**
+- **_Añadir 4 botones a la calculadora para sumar, restar, multiplicar y dividir._**
 
 6.- **_Añadir 4 eventos a los botones._**
 
