@@ -10,7 +10,7 @@
 
 - **_Utilizar programación XAML y C# para crear la calculadora._**
 
-3.- **_Utilizar cuadros de texto y alineación de contenido para diseñar los textos._**
+- **_Utilizar cuadros de texto y alineación de contenido para diseñar los textos._**
 
 4.- **_Utilizar etiquetas dinámicas y cambiar los valores del código directamente._**
 
