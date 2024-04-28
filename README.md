@@ -6,7 +6,7 @@
 
 ### Objetivos de esta lección:
 
-1.- **_Crear una calculadora completa en la aplicación WPF usando C#._**
+- **_Crear una calculadora completa en la aplicación WPF usando C#._**
 
 2.- **_Utilizar programación XAML y C# para crear la calculadora._**
 
