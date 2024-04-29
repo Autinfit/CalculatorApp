@@ -1,6 +1,6 @@
 # CalculatorApp
 
-Traducido del español:
+_Traducido del español:_
 
 - **_En este tutorial crearemos una calculadora simple en Visual Studio usando el lenguaje de programación W.P.F. por C#._**
 - **_El propósito de este tutorial es comenzar a aprender cómo crear aplicaciones en formato WPF._**
