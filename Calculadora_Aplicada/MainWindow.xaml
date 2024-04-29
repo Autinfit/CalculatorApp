@@ -22,5 +22,9 @@
 
         <Button Width="60" Height="20" Margin="490,278,242,125">Dividir</Button>
 
+        <Label VerticalAlignment="Bottom" FontSize="20" HorizontalAlignment="Center" Margin="290,0,391,0">Resultados:</Label>
+
+        <Label Name="Resultados" VerticalAlignment="Bottom" FontSize="20" HorizontalAlignment="Center" Margin="420,0,328,0" Width="50">00</Label>
+
     </Grid>
 </Window>
