@@ -2,7 +2,7 @@
 
 - **_In this tutorial we will create a simple calculator in Visual Studio using the W.P.F. programming language for C#._**
 - **_The purpose of this tutorial is to start learning how to create applications in WPF format._**
-- We've built several different programs in the classic Windows Forms app template; However, it is important for us to learn how to use WPF as it is now used more frequently in application and game development.
+- _We've built several different programs in the classic Windows Forms app template; However, it is important for us to learn how to use WPF as it is now used more frequently in application and game development._
 
 **_Traducido del español:_**
 
