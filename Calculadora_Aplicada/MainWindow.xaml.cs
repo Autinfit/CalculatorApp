@@ -26,5 +26,33 @@ namespace Calculadora_Aplicada
 
             // EN ESTE PROYECTO SOLAMENTE SE CREA UN EMULADOR DE CALCULADORAS MEDIANTE ARCHIVO .XAML!
         }
+
+        private void SumarNumeros(object sender, RoutedEventArgs e)
+        {
+            // ESTE EVENTO CORRESPONDE MEDIANTE UN BOTÓN PARA PODER SUMAR 2 NÚMEROS...
+
+            // EN INSTANTES...
+        }
+
+        private void RestarNumeros(object sender, RoutedEventArgs e)
+        {
+            // ESTE EVENTO CORRESPONDE MEDIANTE UN BOTÓN PARA PODER RESTAR 2 NÚMEROS...
+
+            // EN INSTANTES...
+        }
+
+        private void MultiplicarNumeros(object sender, RoutedEventArgs e)
+        {
+            // ESTE EVENTO CORRESPONDE MEDIANTE UN BOTÓN PARA PODER MULTIPLICAR 2 NÚMEROS...
+
+            // EN INSTANTES...
+        }
+
+        private void DividirNumeros(object sender, RoutedEventArgs e)
+        {
+            // ESTE EVENTO CORRESPONDE MEDIANTE UN BOTÓN PARA PODER DIVIDIR 2 NÚMEROS...
+
+            // EN INSTANTES...
+        }
     }
 }

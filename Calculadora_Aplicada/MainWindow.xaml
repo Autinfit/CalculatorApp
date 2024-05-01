@@ -14,13 +14,13 @@
 
         <TextBox VerticalContentAlignment="Center" FontSize="20" TextAlignment="Center" Name="variableB" Margin="490,127,242,266" Width="75" Height="45">00</TextBox>
 
-        <Button Width="60" Height="20" Margin="224,278,508,125">Sumar</Button>
+        <Button Width="60" Height="20" Margin="224,278,508,125" Click="SumarNumeros">Sumar</Button>
 
-        <Button Width="60" Height="20" Margin="316,278,416,125">Restar</Button>
+        <Button Width="60" Height="20" Margin="316,278,416,125" Click="RestarNumeros">Restar</Button>
 
-        <Button Width="60" Height="20" Margin="404,278,328,125">Multiplicar</Button>
+        <Button Width="60" Height="20" Margin="404,278,328,125" Click="MultiplicarNumeros">Multiplicar</Button>
 
-        <Button Width="60" Height="20" Margin="490,278,242,125">Dividir</Button>
+        <Button Width="60" Height="20" Margin="490,278,242,125" Click="DividirNumeros">Dividir</Button>
 
         <Label VerticalAlignment="Bottom" FontSize="20" HorizontalAlignment="Center" Margin="290,0,391,0">Resultados:</Label>
 
