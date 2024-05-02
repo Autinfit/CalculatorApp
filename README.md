@@ -12,7 +12,7 @@
 
 - **_Use text boxes and content alignment to design texts._**
 
-- _Use dynamic tags and change code values ​​directly._
+- **_Use dynamic tags and change code values ​​directly._**
 
 - _Add 4 buttons to the calculator to add, subtract, multiply and divide._
 
