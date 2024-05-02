@@ -6,7 +6,7 @@
 
 ### Objectives of this lesson:
 
-- _Create a complete calculator in WPF application using C#._
+- **_Create a complete calculator in WPF application using C#._**
 
 - _Use XAML and C# programming to create the calculator._
 
