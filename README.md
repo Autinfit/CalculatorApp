@@ -18,7 +18,7 @@
 
 - _Add 4 events to the buttons._
 
-- Convert strings to doubles and complete calculations.
+- _Convert strings to doubles and complete calculations._
 
 - Round decimal numbers down and display them using a label.
 
