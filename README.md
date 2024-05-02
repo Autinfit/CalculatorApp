@@ -5,6 +5,7 @@
 - **_We've built several different programs in the classic Windows Forms app template; However, it is important for us to learn how to use WPF as it is now used more frequently in application and game development._**
 
 Objectives of this lesson:
+
 Create a complete calculator in WPF application using C#.
 
 Use XAML and C# programming to create the calculator.
