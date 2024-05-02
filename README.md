@@ -20,7 +20,7 @@
 
 - **_Convert strings to doubles and complete calculations._**
 
-- _Round decimal numbers down and display them using a label._
+- **_Round decimal numbers down and display them using a label._**
 
 **_Traducido del español:_**
 
