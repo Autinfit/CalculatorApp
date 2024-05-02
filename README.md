@@ -8,7 +8,7 @@
 
 - **_Create a complete calculator in WPF application using C#._**
 
-- _Use XAML and C# programming to create the calculator._
+- **_Use XAML and C# programming to create the calculator._**
 
 - _Use text boxes and content alignment to design texts._
 
