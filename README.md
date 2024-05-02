@@ -16,7 +16,7 @@
 
 - **_Add 4 buttons to the calculator to add, subtract, multiply and divide._**
 
-- _Add 4 events to the buttons._
+- **_Add 4 events to the buttons._**
 
 - _Convert strings to doubles and complete calculations._
 
