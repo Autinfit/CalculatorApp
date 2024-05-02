@@ -10,7 +10,7 @@
 
 - Use XAML and C# programming to create the calculator.
 
-Use text boxes and content alignment to design texts.
+- Use text boxes and content alignment to design texts.
 
 Use dynamic tags and change code values ​​directly.
 
