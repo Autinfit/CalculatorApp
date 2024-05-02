@@ -14,7 +14,7 @@
 
 - Use dynamic tags and change code values ​​directly.
 
-Add 4 buttons to the calculator to add, subtract, multiply and divide.
+- Add 4 buttons to the calculator to add, subtract, multiply and divide.
 
 Add 4 events to the buttons.
 
