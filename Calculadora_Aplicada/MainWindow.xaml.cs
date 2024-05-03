@@ -20,6 +20,13 @@ namespace Calculadora_Aplicada
     /// </summary>
     public partial class MainWindow : Window
     {
+
+        // CREAREMOS NUEVAS VARIABLES PARA INCLUIR 2 NÚMEROS MÁS SU RESULTADO FINAL..
+
+        double numero1; // PRIMER NÚMERO A REALIZAR DICHA OPERACIÓN.
+        double numero2; // SEGUNDO NÚMERO A REALIZAR DICHA OPERACIÓN.
+        double resultadoFinal; // RESULTADO TRAS REALIZAR UNA OPERACIÓN CON 2 NÚMEROS INGRESADOS MANUALMENTE EN LA INTERFAZ.
+
         public MainWindow()
         {
             InitializeComponent();
