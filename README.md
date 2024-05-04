@@ -42,6 +42,6 @@
 
 - **_Añadir 4 eventos a los botones._**
 
-- **_Convertir cadenas a dobles y completar cálculos._**
+- **_Convertir cadenas a dobles y completar dichos cálculos._**
 
 - **_Redondear números decimales hacia abajo y mostrarlos mediante una etiqueta._**
