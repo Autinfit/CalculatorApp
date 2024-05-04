@@ -40,7 +40,7 @@
 
 - **_Añadir 4 botones a la calculadora para poder sumar, restar, multiplicar y dividir._**
 
-- **_Añadir 4 eventos a los botones._**
+- **_Añadir 4 eventos a los botones de dicha operación matemática._**
 
 - **_Convertir cadenas a dobles y completar dichos cálculos._**
 
