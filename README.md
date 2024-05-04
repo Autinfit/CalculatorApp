@@ -32,7 +32,7 @@
 
 - **_Crear una calculadora completa en la aplicación WPF usando C#._**
 
-- **_Utilizar programación XAML y C# para crear una calculadora._**
+- **_Utilizar programación tipo XAML y C# para crear una calculadora._**
 
 - **_Utilizar cuadros de texto y alineación de contenido para diseñar los textos._**
 
