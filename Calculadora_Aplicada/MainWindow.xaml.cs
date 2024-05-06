@@ -38,7 +38,19 @@ namespace Calculadora_Aplicada
         {
             // ESTE EVENTO CORRESPONDE MEDIANTE UN BOTÓN PARA PODER SUMAR 2 NÚMEROS...
 
-            // EN INSTANTES...
+            // INGRESAMOS 2 NÚMEROS A EFECTUAR DICHA OPERACIÓN...
+
+            numero1 = Convert.ToDouble(variableA.Text); // EL PRIMER NÚMERO SE VERIFICA CON UN DOUBLE A INGRESAR EN LA INTERFAZ.
+            numero2 = Convert.ToDouble(variableB.Text); // EL SEGUNDO NÚMERO SE VERIFICA CON UN DOUBLE A INGRESAR EN LA INTERFAZ.
+
+            // LUEGO DE INGRESAR ESTOS NÚMEROS, SE DESPLIEGA UN RESULTADO FINAL AHÍ MISMO...
+
+            resultadoFinal = numero1 + numero2;
+
+            // EN ESTE TEXTO, LUEGO DE HABER REALIZADO ESTE PROCEDIMIENTO, SE MOSTRARÁ UN TEXTO ESTE RESULTADO...
+
+            Resultados.Content = resultadoFinal.ToString();
+
         }
 
         private void RestarNumeros(object sender, RoutedEventArgs e)
