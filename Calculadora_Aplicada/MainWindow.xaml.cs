@@ -93,7 +93,22 @@ namespace Calculadora_Aplicada
         {
             // ESTE EVENTO CORRESPONDE MEDIANTE UN BOTÓN PARA PODER DIVIDIR 2 NÚMEROS...
 
-            // EN INSTANTES...
+            // INGRESAMOS 2 NÚMEROS A EFECTUAR DICHA OPERACIÓN...
+
+            numero1 = Convert.ToDouble(variableA.Text); // EL PRIMER NÚMERO SE VERIFICA CON UN DOUBLE A INGRESAR EN LA INTERFAZ.
+            numero2 = Convert.ToDouble(variableB.Text); // EL SEGUNDO NÚMERO SE VERIFICA CON UN DOUBLE A INGRESAR EN LA INTERFAZ.
+
+            // LUEGO DE INGRESAR ESTOS NÚMEROS, SE DESPLIEGA UN RESULTADO FINAL AHÍ MISMO...
+
+            resultadoFinal = numero1 / numero2; // MULTIPLICACIÓN TOTAL DE 2 NÚMEROS.
+
+            // ANTES DE PASAR AL RESULTADO FINAL, DEBEMOS DE TENER EN CUENTA QUE EL NÚMERO COMO RESULTADO SE REDONDEA CON 2 DECIMALES POSTERIORES A UN NÚMERO ENTERO...
+
+            resultadoFinal = Math.Round(resultadoFinal, 2);
+
+            // EN ESTE TEXTO, LUEGO DE HABER REALIZADO ESTE PROCEDIMIENTO, SE MOSTRARÁ UN TEXTO ESTE RESULTADO...
+
+            Resultados.Content = resultadoFinal.ToString();
         }
     }
 }
