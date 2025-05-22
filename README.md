@@ -1,4 +1,4 @@
-# CalculatorApp
+# _CalculatorApp_
 
 - **_In this tutorial we will create a simple calculator in Visual Studio using the W.P.F. programming language for C#._**
 - **_The purpose of this tutorial is to start learning how to create applications in W.P.F. theme._**
