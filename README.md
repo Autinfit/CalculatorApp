@@ -4,7 +4,7 @@
 - **_The purpose of this tutorial is to start learning how to create applications in W.P.F. theme._**
 - **_We've built several different codes in the classic Windows Forms app template; However, it is important for us to learn how to use W.P.F. as it is now used more frequently in application and game development._**
 
-### Objectives of this lesson:
+### _Objectives of this lesson:_
 
 - **_Create a complete calculator in WPF application using C#._**
 
