@@ -6,7 +6,7 @@
   
 - **_We've built several different codes in the classic Windows Forms app template._**
   
-- However, it is important for us to learn how to use W.P.F. as it is now used more frequently in application and game development._**
+- _However, it is important for us to learn how to use W.P.F. as it is now used more frequently in application and game development._**
 
 ### **_Objectives of this lesson:_**
 
